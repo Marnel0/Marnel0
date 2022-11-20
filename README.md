@@ -4,7 +4,7 @@
     <a href="https://open.spotify.com/user/oofgcp7hu0vfg9qhkf33xey6n" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw" target"blank_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     <a href="https://twitter.com/wezqlf" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://github.com/Wezah" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Marnel0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
